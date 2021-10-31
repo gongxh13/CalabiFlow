@@ -1,0 +1,33 @@
+﻿  main.cpp
+C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\ThirdPartyLib\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\ThirdPartyLib\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\ThirdPartyLib\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(667,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: “M_PI”: 宏重定义
+C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\ThirdPartyLib\OpenMesh\Core\Geometry\MathDefs.hh(49): message : 参见“M_PI”的前一个定义
+C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\BaseFlow.h(163,34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\BaseFlow.h(211,34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\BaseFlow.h(249,34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\BaseFlow.h(297,34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\EuclideanFlow.h(183,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\EuclideanFlow.h(229,34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\EuclideanFlow.h(296,34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\EuclideanFlow.h(305,10): warning C4101: “c”: 未引用的局部变量
+C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\EuclideanEmbed.h(211,30): warning C4244: “参数”: 从“size_t”转换到“const Scalar”，可能丢失数据
+          with
+          [
+              Scalar=double
+          ]
+C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\UtilitiesFlow.h(12,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\UtilitiesFlow.h(13,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\UtilitiesFlow.h(62,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\UtilitiesFlow.h(80,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\UtilitiesFlow.h(103,27): warning C4244: “参数”: 从“size_t”转换到“const Scalar”，可能丢失数据
+          with
+          [
+              Scalar=double
+          ]
+C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\EuclideanCalabiFlow.h(81,34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\ControlerFlow.h(109): warning C4715: “OpenMesh::ControlerFlow::LoadMeshFromFile”: 不是所有的控件路径都返回值
+OpenMeshCore.lib(PLYReader.obj) : warning LNK4099: 未找到 PDB“OpenMeshCore.pdb”(使用“OpenMeshCore.lib(PLYReader.obj)”或在“C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\x64\Debug\OpenMeshCore.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCore.lib(ArrayKernel.obj) : warning LNK4099: 未找到 PDB“OpenMeshCore.pdb”(使用“OpenMeshCore.lib(ArrayKernel.obj)”或在“C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\x64\Debug\OpenMeshCore.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  CalabiExtract.vcxproj -> C:\Users\dell\Desktop\gongxhfile\project\CalabiExtract\x64\Debug\CalabiExtract.exe
