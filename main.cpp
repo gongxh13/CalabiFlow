@@ -19,7 +19,7 @@ int main(int argc, char* argv[])
 
 	std::string fileNameSae = "C:\\Users\\dell\\Desktop\\gongxhfile\\project\\CalabiExtract\\result\\enbed\\airplane1_input.obj";
 	const char* pSave = fileNameSae.c_str();
-	bool result = controler.SaveMeshToFile(pSave);
+	result = controler.SaveMeshToFile(pSave);
 	printf("===========End======================\n");
 	// Plot the mesh
 
